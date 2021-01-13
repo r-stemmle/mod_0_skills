@@ -1,0 +1,21 @@
+Ruby:
+
+1. food = "pizza"
+
+2. is_delicious = true
+
+3. food = "taco"
+
+4. num2 = 68
+
+5. num7 = 86
+
+6. quotient = num7 / num2
+
+7. songs = ["lala land", "tomorrow", "burn"]
+
+8. google is okay...
+
+9. songs.shift or songs.delete_at[0]
+
+10. food.length
