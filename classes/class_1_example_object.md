@@ -10,6 +10,6 @@ is_empty = false
 > methods:
 
 change_style("coffee") = makes jerrys_cup a 'coffee' cup  
-wash_cup = make sure jerrys_cup == true  
+wash_cup = changes is_clean to true  
 new_material("ceramic") = makes jerrys_cup a 'ceramic' cup  
-fill_cup = makes sure jerrys_cup is_empty == false     
+fill_cup =  changes is_empty = false     
